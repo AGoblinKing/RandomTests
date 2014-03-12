@@ -36,7 +36,7 @@
         </style>
         
         <template repeat="{{zLine, i in container}}">
-            <section class="zLine" style="-webkit-transform: rotate3d(1,1,1,{{rotation}}deg) translateZ({{200*i}}px) " >
+            <section class="zLine" style="-webkit-transform: rotate3d(1,1,1, 45deg) translateZ({{200*i}}px)" >
                 <template repeat="{{yLine in zLine}}">
                     <section class="yLine">
                         <template repeat="{{xLine in yLine}}">
@@ -69,7 +69,7 @@
             update: function(curTime) {
                 var delta = (curTime - this.lastTime) * .001;
                 
-                this.rotation += .16;
+                this.rotation += delta * 15;
                 this.lastTime = curTime;
                 requestAnimationFrame(this.update.bind(this));
             },
