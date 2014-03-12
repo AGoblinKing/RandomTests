@@ -1,0 +1,931 @@
+Blessed Thistle Blue Entoloma Bugloss Columbine Cornﬂower Dragonthorn Emetic Russala Imp Stool Lady’s Smock Luminous Russala Mountain Flower Namira’s Rot Nirnroot Stinkhorn Violet Coprinus Water Hyacinth Whitecap Wormwood
+Blessed Thistle + Blue Entoloma Restore Stamina, 
+Improve Weapon 
+Power
+Ravage Magicka, 
+Ravage Health
+Invisibility, Speed Invisibility, Ravage 
+Health
+Ravage Magicka, 
+Ravage Health
+Ravage Magicka, 
+Lower Spell Power
+Blessed Thistle + Bugloss Restore Magicka, 
+Restore Stamina
+Restore Magicka, 
+Ravage Health
+Restore Stamina, 
+Improve Weapon 
+Power
+Improve Spell 
+Resist, Lower Spell 
+Power
+Blessed Thistle + Columbine Restore Stamina, 
+Restore Magicka, 
+Ravage Health
+Restore Stamina, 
+Improve Weapon 
+Power
+Restore Stamina, 
+Restore Magicka
+Restore Stamina, 
+Unstoppable, Speed
+Restore Stamina, 
+Ravage Health
+Restore Stamina, 
+Ravage Health
+Restore Stamina, 
+Unstoppable
+Blessed Thistle + Cornﬂower Ravage Health, 
+Restore Stamina, 
+Improve Weapon 
+Power
+Ravage Health, 
+Restore Magicka, 
+Improve Spell 
+Power
+Ravage Health, 
+Restore Stamina
+Ravage Health, 
+Speed
+Ravage Health, 
+Improve Spell 
+Power
+Ravage Health, 
+Improve Spell 
+Power
+Ravage Health, 
+Detection
+Blessed Thistle + Dragonthorn Improve Weapon 
+Power, Ravage 
+Health
+Restore Stamina, 
+Improve Weapon 
+Power
+Restore Stamina, 
+Improve Weapon 
+Power, Speed
+Restore Stamina, 
+Improve Weapon 
+Power, Ravage 
+Health
+Improve Weapon 
+Power, Lower 
+Armor, Ravage 
+Health
+Restore Stamina, 
+Improve Weapon 
+Power, Ravage 
+Health
+Restore Stamina, 
+Improve Weapon 
+Power, Improve 
+Weapon Crit
+Restore Stamina, 
+Improve Weapon 
+Power
+Restore Stamina, 
+Improve Weapon 
+Power, Improve 
+Weapon Crit
+Blessed Thistle + Emetic Rusulla Ravage Health, 
+Ravage Stamina
+Ravage Health, 
+Ravage Stamina
+Ravage Health, 
+Speed
+Ravage Health, 
+Ravage Stamina
+Ravage Health, 
+Ravage Magicka
+Ravage Health, 
+Stun
+Ravage Health, 
+Ravage Magicka
+Blessed Thistle + Imp Stool Lower Weapon 
+Power, Improve 
+Armor
+Lower Weapon Crit, 
+Ravage Health
+Ravage Stamina, 
+Ravage Health
+Blessed Thistle + Lady's Smock Improve Spell Crit, 
+Speed
+Improve Spell 
+Power, Ravage 
+Health
+Improve Spell 
+Power, Lower Spell 
+Resist, Ravage 
+Health
+Blessed Thistle + Luminous Russula Ravage Stamina, 
+Ravage Health
+Blessed Thistle + Mountain Flower Restore Stamina, 
+Speed
+Restore Stamina, 
+Ravage Health
+Restore Stamina, 
+Ravage Health
+Blessed Thistle + Namira's Rot Speed, Invisibility, 
+Ravage Health
+Speed, Ravage 
+Health
+Speed, Ravage 
+Health
+Speed, Improve 
+Spell Crit
+Blessed Thistle + Nirnroot Ravage Health, 
+Lower Spell Crit
+Blessed Thistle + Stinkhorn Ravage Health, 
+Improve Spell 
+Power
+Blessed Thistle + Violet Coprinus Ravage Health, 
+Ravage Magicka
+Blue Entoloma + Bugloss Restore Health, 
+Lower Spell Power
+Restore Health, 
+Lower Spell Power
+Lower Spell Power, 
+Ravage Magicka
+Restore Health, 
+Lower Spell Power
+Restore Health, 
+Lower Spell Power
+Restore Health, 
+Lower Spell Power
+Restore Health, 
+Lower Spell Power
+Restore Health, 
+Lower Spell Power, 
+Invisibility
+Lower Spell Power, 
+Invisibility
+Lower Spell Power, 
+Ravage Magicka
+Restore Health, 
+Lower Spell Power
+Restore Health, 
+Lower Spell Power, 
+Improve Spell 
+Resist, Ravage 
+Magicka
+Restore Health, 
+Lower Spell Power
+Blue Entoloma + Columbine Restore Health, 
+Restore Stamina
+Restore Health, 
+Lower Spell Power
+Restore Health, 
+Restore Stamina
+Restore Health, 
+Unstoppable, 
+Invisibility
+Restore Health, 
+Ravage Magicka, 
+Lower Spell Power
+Restore Health, 
+Unstoppable
+Blue Entoloma + Cornﬂower Ravage Health, 
+Ravage Magicka
+Ravage Health, 
+Invisibility
+Ravage Health, 
+Ravage Magicka
+Ravage Magicka, 
+Lower Spell Power
+Blue Entoloma + Dragonthorn Restore Health, 
+Lower Spell Power
+Restore Stamina, 
+Restore Health
+Improve Weapon 
+Crit, Restore Health
+Ravage Magicka, 
+Lower Spell Power
+Blue Entoloma + Emetic Rusulla Ravage Magicka, 
+Ravage Stamina
+Ravage Magicka, 
+Ravage Stamina, 
+Lower Spell Power
+Ravage Magicka, 
+Invisibility
+Ravage Magicka, 
+Ravage Health, 
+Invisibility
+Ravage Magicka, 
+Ravage Health, 
+Ravage Stamina
+Ravage Magicka, 
+Ravage Health
+Ravage Magicka, 
+Stun
+Ravage Magicka, 
+Lower Spell Power
+Blue Entoloma + Imp Stool Ravage Stamina, 
+Restore Health, 
+Lower Spell Power
+Lower Weapon 
+Power, Improve 
+Armor, Restore 
+Health
+Lower Weapon Crit, 
+Invisibility
+Ravage Magicka, 
+Lower Spell Power
+Blue Entoloma + Lady's Smock Restore Health, 
+Lower Spell Power
+Improve Spell Crit, 
+Invisibility
+Lower Spell Resist, 
+Ravage Magicka
+Improve Spell Crit, 
+Restore Health
+Ravage Magicka, 
+Lower Spell Power
+Blue Entoloma + Luminous Russula Restore Health, 
+Lower Spell Power
+Restore Health, 
+Lower Spell Power, 
+Invisibility
+Lower Spell Power, 
+Invisibility
+Lower Spell Power, 
+Ravage Stamina
+Lower Spell Power, 
+Ravage Magicka
+Restore Health, 
+Lower Spell Power
+Restore Health, 
+Lower Spell Power, 
+Ravage Magicka
+Restore Health, 
+Lower Spell Power, 
+Reduce Speed
+Blue Entoloma + Mountain Flower Restore Health, 
+Invisibility
+Restore Health, 
+Ravage Magicka, 
+Lower Spell Power
+Blue Entoloma + Namira's Rot Invisibility, Ravage 
+Magicka
+Invisibility, Improve 
+Spell Crit, Restore 
+Health
+Invisibility, Ravage 
+Magicka, Lower 
+Spell Power
+Invisibility, 
+Unstoppable
+Blue Entoloma + Nirnroot Invisibility, Ravage 
+Health
+Invisibility, Ravage 
+Health, Ravage 
+Magicka
+Invisibility, Lower 
+Spell Crit, Ravage 
+Magicka, Lower 
+Spell Power
+Blue Entoloma + Stinkhorn Ravage Health, 
+Ravage Magicka
+Ravage Magicka, 
+Lower Spell Power
+Blue Entoloma + Violet Coprinus Ravage Magicka, 
+Lower Spell Power
+Blue Entoloma + Water Hyacinth Restore Health, 
+Ravage Magicka, 
+Lower Spell Power
+Restore Health, 
+Improve Weapon 
+Crit
+Blue Entoloma + Whitecap Ravage Magicka, 
+Lower Spell Power
+Bugloss + Columbine Restore Health, 
+Restore Magicka, 
+Restore Stamina
+Restore Health, 
+Restore Magicka
+Restore Health, 
+Restore Magicka
+Restore Health, 
+Restore Magicka, 
+Lower Spell Power
+Restore Health, 
+Restore Magicka, 
+Restore Stamina
+Restore Health, 
+Restore Magicka, 
+Unstoppable
+Restore Health, 
+Restore Magicka
+Restore Health, 
+Improve Spell 
+Resist, Lower Spell 
+Power
+Restore Health, 
+Restore Magicka, 
+Unstoppable
+Bugloss + Cornﬂower Restore Magicka, 
+Lower Spell Power
+Restore Magicka, 
+Ravage Health
+Restore Magicka, 
+Ravage Health
+Improve Spell 
+Resist, Lower Spell 
+Power
+Restore Magicka, 
+Detection
+Bugloss + Dragonthorn Lower Spell Power, 
+Restore Health
+Restore Stamina, 
+Restore Health
+Improve Weapon 
+Crit, Restore Health
+Improve Spell 
+Resist, Lower Spell 
+Power
+Bugloss + Emetic Rusulla Ravage Stamina, 
+Lower Spell Power
+Ravage Health, 
+Ravage Stamina
+Ravage Health, 
+Ravage Magicka
+Ravage Magicka, 
+Improve Spell 
+Resist, Lower Spell 
+Power
+Bugloss + Imp Stool Ravage Stamina, 
+Lower Spell Power, 
+Restore Health
+Lower Weapon 
+Power, Improve 
+Armor, Restore 
+Health
+Improve Spell 
+Resist, Lower Spell 
+Power
+Bugloss + Lady's Smock Restore Magicka, 
+Lower Spell Power, 
+Restore Health
+Restore Magicka, 
+Restore Health
+Restore Magicka, 
+Improve Spell Crit
+Restore Magicka, 
+Improve Spell Crit, 
+Restore Health
+Bugloss + Luminous Russula Lower Spell Power, 
+Restore Health
+Lower Spell Power, 
+Restore Health
+Lower Spell Power, 
+Ravage Stamina
+Lower Spell Power, 
+Restore Health
+Lower Spell Power, 
+Restore Health, 
+Improve Spell 
+Resist
+Lower Spell Power, 
+Restore Health, 
+Reduce Speed
+Bugloss + Mountain Flower Restore Health, 
+Improve Spell 
+Resist, Lower Spell 
+Power
+Bugloss + Namira's Rot Improve Spell Crit, 
+Restore Health
+Improve Spell 
+Resist, Lower Spell 
+Power
+Bugloss + Nirnroot Lower Spell Crit, 
+Improve Spell 
+Resist, Lower Spell 
+Power
+Bugloss + Stinkhorn Improve Spell 
+Resist, Lower Spell 
+Power
+Bugloss + Violet Coprinus Ravage Magicka, 
+Lower Spell Power
+Bugloss + Water Hyacinth Restore Health, 
+Improve Spell 
+Resist, Lower Spell 
+Power
+Restore Health, 
+Improve Weapon 
+Crit
+Bugloss + Whitecap Improve Spell 
+Resist, Lower Spell 
+Power
+Columbine + Cornﬂower Restore Magicka, 
+Restore Stamina
+Restore Magicka, 
+Improve Spell 
+Power
+Restore Magicka, 
+Restore Stamina
+Restore Magicka, 
+Unstoppable
+Restore Magicka, 
+Ravage Health
+Restore Magicka, 
+Ravage Health, 
+Improve Spell 
+Power
+Ravage Health, 
+Improve Spell 
+Power
+Restore Magicka, 
+Detection, 
+Unstoppable
+Columbine + Dragonthorn Restore Stamina, 
+Restore Magicka
+Restore Stamina, 
+Restore Health
+Restore Stamina, 
+Unstoppable
+Restore Stamina, 
+Improve Weapon 
+Crit, Restore Health
+Restore Stamina, 
+Improve Weapon 
+Crit, Unstoppable
+Columbine + Emetic Rusulla Ravage Health, 
+Ravage Stamina
+Ravage Health, 
+Ravage Magicka
+Columbine + Imp Stool Ravage Stamina, 
+Restore Health
+Lower Weapon 
+Power, Improve 
+Armor, Restore 
+Health
+Columbine + Lady's Smock Restore Magicka, 
+Restore Health
+Restore Magicka, 
+Restore Health, 
+Restore Stamina
+Restore Magicka, 
+Improve Spell Crit, 
+Unstoppable
+Restore Magicka, 
+Improve Spell 
+Power
+Improve Spell 
+Power, Lower Spell 
+Resist
+Restore Magicka, 
+Improve Spell Crit, 
+Restore Health
+Restore Magicka, 
+Unstoppable
+Columbine + Luminous Russula Restore Health, 
+Unstoppable
+Restore Health, 
+Lower Spell Power
+Restore Health, 
+Reduce Speed, 
+Unstoppable
+Columbine + Mountain Flower Restore Health, 
+Restore Stamina, 
+Unstoppable
+Restore Health, 
+Restore Stamina
+Restore Health, 
+Restore Stamina
+Restore Health, 
+Restore Stamina, 
+Unstoppable
+Columbine + Namira's Rot Unstoppable, 
+Invisibility
+Improve Spell Crit, 
+Restore Health
+Columbine + Stinkhorn Improve Spell 
+Power, Ravage 
+Health
+Columbine + Water Hyacinth Restore Health, 
+Improve Weapon 
+Crit
+Cornﬂower + Dragonthorn Restore Magicka, 
+Improve Spell 
+Power
+Lower Armor, 
+Ravage Health, 
+Improve Spell 
+Power
+Ravage Health, 
+Improve Spell 
+Power
+Improve Weapon 
+Crit, Detection
+Cornﬂower + Emetic Rusulla Ravage Health, 
+Ravage Stamina
+Ravage Health, 
+Improve Spell 
+Power
+Ravage Health, 
+Ravage Stamina
+Ravage Health, 
+Ravage Stamina, 
+Improve Spell 
+Power
+Ravage Health, 
+Ravage Magicka, 
+Improve Spell 
+Power
+Ravage Health, 
+Stun
+Ravage Health, 
+Ravage Magicka
+Ravage Health, 
+Detection
+Cornﬂower + Imp Stool Restore Magicka, 
+Improve Spell 
+Power
+Lower Weapon 
+Power, Improve 
+Armor
+Lower Weapon Crit, 
+Ravage Health
+Ravage Stamina, 
+Ravage Health, 
+Improve Spell 
+Power
+Ravage Health, 
+Improve Spell 
+Power
+Cornﬂower + Lady's Smock Restore Magicka, 
+Improve Spell 
+Power
+Restore Magicka, 
+Improve Spell 
+Power, Improve 
+Spell Crit
+Restore Magicka, 
+Improve Spell 
+Power, Ravage 
+Health
+Restore Magicka, 
+Improve Spell 
+Power, Ravage 
+Health
+Improve Spell 
+Power, Lower Spell 
+Resist, Ravage 
+Health
+Restore Magicka, 
+Improve Spell 
+Power, Improve 
+Spell Crit
+Restore Magicka, 
+Improve Spell 
+Power, Detection
+Cornﬂower + Luminous Russula Ravage Stamina, 
+Ravage Health
+Reduce Speed, 
+Detection
+Cornﬂower + Mountain Flower Ravage Health, 
+Improve Spell 
+Power
+Ravage Health, 
+Improve Spell 
+Power
+Cornﬂower + Namira's Rot Invisibility, Ravage 
+Health
+Ravage Health, 
+Improve Spell 
+Power
+Ravage Health, 
+Improve Spell 
+Power
+Unstoppable, 
+Detection
+Cornﬂower + Nirnroot Ravage Health, 
+Improve Spell 
+Power
+Ravage Health, 
+Improve Spell 
+Power
+Ravage Health, 
+Lower Spell Crit
+Ravage Health, 
+Detection
+Cornﬂower + Stinkhorn Ravage Health, 
+Improve Spell 
+Power
+Ravage Health, 
+Improve Spell 
+Power
+Ravage Health, 
+Improve Spell 
+Power, Detection
+Cornﬂower + Violet Coprinus Ravage Health, 
+Improve Spell 
+Power
+Ravage Health, 
+Ravage Magicka
+Ravage Health, 
+Improve Spell 
+Power, Detection
+Cornﬂower + Water Hyacinth Improve Weapon 
+Crit, Detection
+Dragonthorn + Emetic Rusulla Ravage Health, 
+Ravage Stamina, 
+Lower Armor
+Ravage Health, 
+Ravage Magicka
+Stun, Improve 
+Weapon Crit
+Dragonthorn + Imp Stool Ravage Stamina, 
+Lower Armor
+Dragonthorn + Lady's Smock Improve Spell 
+Power, Lower Armor
+Improve Spell 
+Power, Lower Spell 
+Resist
+Improve Spell Crit, 
+Improve Weapon 
+Crit
+Dragonthorn + Luminous Russula Ravage Stamina, 
+Lower Armor
+Restore Health, 
+Improve Weapon 
+Crit
+Reduce Speed, 
+Improve Weapon 
+Crit
+Dragonthorn + Mountain Flower Restore Stamina, 
+Restore Health, 
+Improve Weapon 
+Crit
+Restore Stamina, 
+Improve Weapon 
+Crit
+Dragonthorn + Namira's Rot Improve Spell Crit, 
+Improve Weapon 
+Crit
+Unstoppable, 
+Improve Weapon 
+Crit
+Dragonthorn + Nirnroot Ravage Health, 
+Lower Armor
+Dragonthorn + Stinkhorn Lower Armor, 
+Improve Spell 
+Power, Ravage 
+Health
+Lower Armor, 
+Improve Weapon 
+Crit
+Lower Armor, 
+Improve Weapon 
+Crit
+Emetic Rusulla + Imp Stool Ravage Stamina, 
+Lower Weapon 
+Power, Improve 
+Armor
+Ravage Stamina, 
+Lower Weapon Crit, 
+Ravage Health
+Ravage Stamina, 
+Ravage Health
+Ravage Stamina, 
+Ravage Health, 
+Ravage Magicka
+Ravage Stamina, 
+Stun
+Ravage Stamina, 
+Ravage Magicka
+Emetic Rusulla + Lady's Smock Improve Spell 
+Power, Ravage 
+Health, Ravage 
+Stamina
+Improve Spell 
+Power, Lower Spell 
+Resist, Ravage 
+Health, Ravage 
+Magicka
+Improve Spell Crit, 
+Stun
+Emetic Rusulla + Luminous Russula Ravage Stamina, 
+Ravage Health
+Ravage Stamina, 
+Ravage Health
+Ravage Stamina, 
+Ravage Health, 
+Ravage Magicka
+Ravage Stamina, 
+Stun
+Ravage Stamina, 
+Lower Spell Power, 
+Ravage Magicka
+Ravage Stamina, 
+Reduce Speed
+Emetic Rusulla + Mountain Flower Ravage Health, 
+Ravage Stamina
+Ravage Health, 
+Ravage Magicka
+Emetic Rusulla + Namira's Rot Invisibility, Ravage 
+Health
+Ravage Health, 
+Ravage Stamina
+Ravage Health, 
+Ravage Magicka
+Improve Spell Crit, 
+Stun
+Emetic Rusulla + Nirnroot Ravage Health, 
+Ravage Stamina
+Ravage Health, 
+Ravage Magicka
+Ravage Health, 
+Stun
+Ravage Health, 
+Lower Spell Crit, 
+Ravage Magicka
+Emetic Rusulla + Stinkhorn Ravage Health, 
+Ravage Stamina, 
+Improve Spell 
+Power, Ravage 
+Magicka
+Ravage Health, 
+Ravage Stamina, 
+Stun
+Ravage Health, 
+Ravage Stamina, 
+Ravage Magicka
+Ravage Health, 
+Ravage Stamina
+Emetic Rusulla + Violet Coprinus Ravage Health, 
+Ravage Magicka, 
+Stun
+Ravage Health, 
+Ravage Magicka
+Ravage Health, 
+Ravage Magicka
+Emetic Rusulla + Water Hyacinth Stun, Ravage 
+Magicka
+Stun, Improve 
+Weapon Crit
+Imp Stool + Lady's Smock Lower Weapon 
+Power, Improve 
+Armor
+Improve Spell 
+Power, Ravage 
+Stamina
+Improve Spell 
+Power, Lower Spell 
+Resist
+Imp Stool + Luminous Russula Ravage Stamina, 
+Restore Health, 
+Lower Weapon 
+Power, Improve 
+Armor
+Ravage Stamina, 
+Lower Weapon Crit
+Ravage Stamina, 
+Restore Health
+Ravage Stamina, 
+Lower Spell Power
+Ravage Stamina, 
+Reduce Speed
+Imp Stool + Mountain Flower Lower Weapon 
+Power, Improve 
+Armor
+Lower Weapon 
+Power, Improve 
+Armor, Lower 
+Weapon Crit
+Lower Weapon 
+Power, Ravage 
+Stamina
+Lower Weapon 
+Power, Improve 
+Armor
+Lower Weapon 
+Power, Improve 
+Armor, Restore 
+Health
+Lower Weapon 
+Power, Improve 
+Armor
+Lower Weapon 
+Power, Improve 
+Armor
+Imp Stool + Namira's Rot Invisibility, Lower 
+Weapon Crit
+Imp Stool + Nirnroot Lower Weapon Crit, 
+Ravage Health, 
+Ravage Stamina
+Lower Weapon Crit, 
+Ravage Health
+Lower Weapon Crit, 
+Lower Spell Crit
+Imp Stool + Stinkhorn Ravage Stamina, 
+Improve Spell 
+Power, Ravage 
+Health
+Lady's Smock + Luminous Russula Restore Health, 
+Improve Spell Crit
+Lady's Smock + Mountain Flower Improve Spell 
+Power, Lower Spell 
+Resist
+Restore Health, 
+Improve Spell Crit
+Lady's Smock + Namira's Rot Improve Spell Crit, 
+Improve Spell 
+Power
+Improve Spell Crit, 
+Improve Spell 
+Power, Lower Spell 
+Resist
+Improve Spell Crit, 
+Unstoppable
+Lady's Smock + Nirnroot Ravage Health, 
+Improve Spell 
+Power
+Ravage Health, 
+Improve Spell 
+Power, Lower Spell 
+Resist
+Lady's Smock + Stinkhorn Improve Spell 
+Power, Ravage 
+Health, Lower Spell 
+Resist
+Improve Spell 
+Power, Improve 
+Spell Crit
+Lady's Smock + Violet Coprinus Improve Spell 
+Power, Lower Spell 
+Resist, Improve 
+Spell Crit
+Lower Spell Resist, 
+Ravage Magicka
+Improve Spell 
+Power, Lower Spell 
+Resist
+Lady's Smock + Water Hyacinth Improve Spell Crit, 
+Improve Weapon 
+Crit
+Luminous Russula + Mountain Flower Restore Health, 
+Lower Spell Power
+Restore Health, 
+Reduce Speed
+Luminous Russula + Namira's Rot Improve Spell Crit, 
+Restore Health
+Unstoppable, 
+Reduce Speed
+Luminous Russula + Nirnroot Ravage Health, 
+Ravage Stamina
+Lower Spell Crit, 
+Lower Spell Power
+Luminous Russula + Stinkhorn Ravage Stamina, 
+Ravage Health
+Ravage Stamina, 
+Lower Spell Power
+Ravage Stamina, 
+Reduce Speed
+Luminous Russula + Violet Coprinus Ravage Magicka, 
+Lower Spell Power
+Luminous Russula + Water Hyacinth Restore Health, 
+Lower Spell Power
+Restore Health, 
+Improve Weapon 
+Crit, Reduce Speed
+Luminous Russula + Whitecap Lower Spell Power, 
+Reduce Speed
+Mountain Flower + Namira's Rot Improve Spell Crit, 
+Restore Health
+Mountain Flower + Stinkhorn Improve Spell 
+Power, Ravage 
+Health
+Mountain Flower + Water Hyacinth Restore Health, 
+Improve Weapon 
+Crit
+Namira's Rot + Nirnroot Invisibility, Ravage 
+Health
+Invisibility, Ravage 
+Health
+Invisibility, Lower 
+Spell Crit
+Invisibility, 
+Unstoppable
+Namira's Rot + Stinkhorn Improve Spell 
+Power, Ravage 
+Health
+Namira's Rot + Water Hyacinth Improve Spell Crit, 
+Improve Weapon 
+Crit
+Nirnroot + Stinkhorn Ravage Health, 
+Improve Spell 
+Power
+Ravage Health, 
+Lower Spell Crit
+Nirnroot + Violet Coprinus Ravage Health, 
+Ravage Magicka, 
+Lower Spell Crit
+Stinkhorn + Violet Coprinus Improve Spell 
+Power, Ravage 
+Health
+Ravage Health, 
+Ravage Magicka
+Improve Spell 
+Power, Ravage 
+Health

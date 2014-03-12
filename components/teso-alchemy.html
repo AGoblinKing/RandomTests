@@ -1,0 +1,28 @@
+<link rel="import" href="teso-cube.html">
+
+<polymer-element name="teso-alchemy">
+    <template>
+        <style>
+            teso-cube {
+                
+            }
+            :host {
+                display: flex;
+                width: 120%;
+                height: 120%;
+                flex-wrap: wrap;
+                overflow: hidden;
+            }
+        </style>
+    </template>
+    <script>
+        Polymer("teso-alchemy", {
+            cubes: 100,
+            ready: function() {
+                for(var x = 0; x < this.cubes; x++) {
+                    this.shadowRoot.appendChild(document.createElement("teso-cube"));    
+                }
+            }
+        });
+    </script>
+</polymer-element>

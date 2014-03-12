@@ -1,0 +1,22 @@
+{
+  "name": "alcvis",
+  "version": "0.0.0",
+  "authors": [
+    "Joshua Galvin <joshuagalvin@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.2.1"
+  }
+}
