@@ -7,21 +7,52 @@
                 
             }
             :host {
-                display: flex;
                 width: 120%;
                 height: 120%;
-                flex-wrap: wrap;
                 overflow: hidden;
+
+                -webkit-transform-style: preserve-3d;
             }
+            .yLine {
+                -webkit-flex-flow: wrap;
+                display: -webkit-flex;
+                
+            }
+            .zLine {
+                position: absolute;
+            }
+            
         </style>
+        
+        <template repeat="{{zLine in container}}">
+            <section class="zLine">
+                <template repeat="{{yLine in zLine}}">
+                    <section class="yLine">
+                        <template repeat="{{xLine in yLine}}">
+                            <teso-cube></teso-cube>
+                        </template>
+                    </section>
+                </template>
+            </section>
+        </template>
     </template>
     <script>
         Polymer("teso-alchemy", {
-            cubes: 100,
-            ready: function() {
-                for(var x = 0; x < this.cubes; x++) {
-                    this.shadowRoot.appendChild(document.createElement("teso-cube"));    
+            cubes: 4,
+            makeArray: function(length, depth) {
+                var ret = [];
+                for(var x = 0; x < length; x++) {
+                    if(depth != 0) {
+                        ret.push(this.makeArray(length, depth-1));
+                    } else {
+                        ret.push("");   
+                    }
                 }
+                return ret;
+            },
+            ready: function() {
+                this.container = this.makeArray(this.cubes, 3);
+                
             }
         });
     </script>
