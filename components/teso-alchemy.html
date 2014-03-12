@@ -10,8 +10,12 @@
                 width: 120%;
                 height: 120%;
                 overflow: hidden;
-
+                display: block;
+                -webkit-transform-origin: left;
                 -webkit-transform-style: preserve-3d;
+                -webkit-perspective: 12000px;
+                -webkit-transform:rotateY(15deg);
+                padding: 5% 30%;
             }
             .yLine {
                 -webkit-flex-flow: wrap;
@@ -20,12 +24,19 @@
             }
             .zLine {
                 position: absolute;
+                display: block;
+                -webkit-transform-style: preserve-3d;
+                -webkit-transform-origin: 0% 0% 0%;
+            }
+            
+            .yLine, zLine {
+                -webkit-transform-style: preserve-3d;    
             }
             
         </style>
         
-        <template repeat="{{zLine in container}}">
-            <section class="zLine">
+        <template repeat="{{zLine, i in container}}">
+            <section class="zLine" style="-webkit-transform: rotate3d(1,1,1,{{rotation}}deg) translateZ({{200*i}}px) " >
                 <template repeat="{{yLine in zLine}}">
                     <section class="yLine">
                         <template repeat="{{xLine in yLine}}">
@@ -42,7 +53,7 @@
             makeArray: function(length, depth) {
                 var ret = [];
                 for(var x = 0; x < length; x++) {
-                    if(depth != 0) {
+                    if(depth != 1) {
                         ret.push(this.makeArray(length, depth-1));
                     } else {
                         ret.push("");   
@@ -52,8 +63,17 @@
             },
             ready: function() {
                 this.container = this.makeArray(this.cubes, 3);
+                this.lastTime = 0;
+                this.update(0);
+            },
+            update: function(curTime) {
+                var delta = (curTime - this.lastTime) * .001;
                 
-            }
+                this.rotation += .16;
+                this.lastTime = curTime;
+                requestAnimationFrame(this.update.bind(this));
+            },
+            rotation: 0
         });
     </script>
 </polymer-element>
